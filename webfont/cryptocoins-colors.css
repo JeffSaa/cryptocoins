@@ -2,7 +2,7 @@
 .ADC { color: #3CB0E5; }
 .AEON { color: #164450; }
 .AMP { color: #048DD2; }
-.ANC { color: #000; }
+.ANC { color: #4cdb4b; }
 .ARCH { color: #002652; }
 .ARDR { color: #1162a1; }
 .ARK { color: #F70000; }
@@ -12,18 +12,19 @@
 .BAT { color: #9e1f63; }
 .BAY { color: #584ba1; }
 .BC { color: #202121; }
+.BCH { color: #0ac08d; }
 .BCN { color: #964F51; }
 .BCY { color: #123A5A; }
 .BELA { color: #009EF9; }
 .BFT { color: #4fc3f7; }
 .BINANCE { color: #F3BA2F; }
-.BLZ { color: #6BE6BE }
+.BLZ { color: #6BE6BE; }
 .BNB { color: #F3BA2F; }
 .BRK { color: #194fa0; }
 .BRX { color: #a8c300; }
 .BSD { color: #1186E7; }
 .BTA { color: #210094; }
-.BTC, .BCH { color: #F7931A; }
+.BTC { color: #F7931A; }
 .BTG { color: #eba809; }
 .BTCD { color: #2A72DC; }
 .BTCP { color: #272D63; }
@@ -33,7 +34,7 @@
 .BUSD { color: #F3BA2F; }
 .CLAM { color: #D6AB31; }
 .CLOAK { color: #DF3F1E; }
-.CVC { color: #3AB03E }
+.CVC { color: #3AB03E; }
 .DAO { color: #FF3B3B; }
 .DASH { color: #1c75bc; }
 .DCR { color: #3b7cfb; }
@@ -68,10 +69,12 @@
 .GRS { color: #648FA0; }
 .HEAT { color: #ff5606; }
 .HUC { color: #FFC018; }
+.HSR { color: #554189}
 .ICN { color: #4c6f8c; }
 .ICX { color: #22C8CC; }
 .IFC { color: #ed272d; }
 .INCNT { color: #f2932f; }
+.ICX { color: #2bbebd; }
 .IOC { color: #2fa3de; }
 .IOTA { color: #FFFFFF; }
 .JBS { color: #1A8BCD; }
@@ -84,6 +87,7 @@
 .LTC { color: #838383; }
 .MAID { color: #5492D6; }
 .MARKS { color: #504C4C; }
+.MATIC { color: #8347e5; }
 .MCO { color: #0D3459; }
 .MINT { color: #006835; }
 .MONA { color: #a99364; }
@@ -137,6 +141,7 @@
 .SLG { color: #5A6875; }
 .SLS { color: #1EB549; }
 .SNRG { color: #160363; }
+.SNT { color: #5b6cee; }
 .START { color: #01AEF0; }
 .STEEM { color: #1A5099; }
 .STRAT { color: #2398dd; }
@@ -149,7 +154,8 @@
 .UBQ { color: #00ec8d; }
 .UNITY { color: #ED8527; }
 .USDT { color: #2CA07A; }
-.VEN { color: #15BDFF; }
+.VERI { color: #ff9933; }
+.VET { color: #15bdfe; }
 .VIA { color: #565656; }
 .VIOR { color: #1F52A4; }
 .VNL { color: #404249; }
